@@ -4,7 +4,7 @@ host	localhost
 user	root
 password	root
 port	3306
-db	crud_oficina5
+db	crudTeste
 
 Instalar dependecia npm i,que foram nodemon body-parser mysql express
 Para criar base da dados nodemon db/create_db.js, nodemon index.js e ir no localhost:3000
